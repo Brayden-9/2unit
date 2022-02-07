@@ -1,4 +1,4 @@
-
+//从键盘接收整数参数。如果该数为1-7，打印对应的星期值，否则打印“非法参数”。
 import java.util.Scanner;
 public class TestSwith{
     public static void main(String[] args){
